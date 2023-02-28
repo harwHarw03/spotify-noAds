@@ -1,0 +1,4 @@
+/*Test remove Upgrade to Premium Button*/
+button[title="Upgrade to Premium"], div[data-testid="test-ref-div"] {
+    display:none !important;
+}
