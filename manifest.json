@@ -11,9 +11,6 @@
   ],
 
    "description": "Spotify noAds",
-   "icons": {
-      "128": "icon.png"
-   },
    "manifest_version": 2,
    "name": "Spotify noAds",
    "permissions": [ "webRequest", "webRequestBlocking", "*://open.spotify.com/*", "*://audio-ak-spotify-com.akamaized.net/*", "https://*.googlesyndication.com/*", "*://audio-akp-quic-spotify-com.akamaized.net/*", "*://gae-spclient.spotify.com/*", "*://*.audio-fa.scdn.co/*"],
